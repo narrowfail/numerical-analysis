@@ -2,8 +2,8 @@
 numerical-analysis
 ==================
 
-Working numerical analysis algorithms written in Scilab with data samples.
-Based/Ported from "Numerical Methods Using Matlab (4th Edition) 
+Working numerical analysis algorithms with data samples written in Scilab.
+Based on the book "Numerical Methods Using Matlab (4th Edition) 
 by John H. Mathews and Kurtis K. Fink
 
 TODO
